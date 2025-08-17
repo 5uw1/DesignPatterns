@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{1B974129-7F47-4D3F-8040-8CD543D826A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{C3D5266E-BE78-4B89-AFFC-127A135E5B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{A9F6C5D8-4B92-49B3-B8C5-46AF6383E7B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{1B974129-7F47-4D3F-8040-8CD543D826A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B974129-7F47-4D3F-8040-8CD543D826A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B974129-7F47-4D3F-8040-8CD543D826A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D5266E-BE78-4B89-AFFC-127A135E5B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D5266E-BE78-4B89-AFFC-127A135E5B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D5266E-BE78-4B89-AFFC-127A135E5B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D5266E-BE78-4B89-AFFC-127A135E5B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F6C5D8-4B92-49B3-B8C5-46AF6383E7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F6C5D8-4B92-49B3-B8C5-46AF6383E7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F6C5D8-4B92-49B3-B8C5-46AF6383E7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F6C5D8-4B92-49B3-B8C5-46AF6383E7B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
