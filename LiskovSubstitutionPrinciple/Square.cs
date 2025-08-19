@@ -2,12 +2,12 @@
 
 public class Square : Rectangle
 {
-    public new int Width
+    public override int Width
     {
         set => base.Width = base.Height = value;
     }
 
-    public new int Height
+    public override int Height
     {
         set => base.Width = base.Height = value;   
     }
